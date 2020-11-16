@@ -32,7 +32,6 @@ Configuration in asterisk
 	webenabled = yes
 	
 3) Create an appropriate entry in manager.conf for the administrative user
-(PLEASE READ THE security.txt FILE!)
 
     [test]
     secret = test123
